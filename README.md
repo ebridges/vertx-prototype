@@ -20,12 +20,14 @@ Illustration using vert.x as a replacement for socket_test.cgi
 
 #### running
 * JavaScript:
-````javascript
+```javascript
 $ vertx run socket_test.js
+```
 
 * Java:
-````java
+```java
 $ vertx run SocketTest.java
+```
 	- _note: no need to compile_
 
 ### stats
